@@ -1,4 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# SQLite database files and data folder
+*.db
+data/
+data/*
+
+# Logs and reports
+*.log
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+.cache
+pytest_cache/
+nosetests.xml
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS files
+.DS_Store
+
+# Environment variables - DON'T commit secrets
 .env
-.env
-.env
-.env
+.env.*
+
+# Docker files
+docker-compose.override.yml
+*.dockerignore
+
+# PyCharm
+.idea/
+*.iml
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Test and cache files
+.pytest_cache/
+.coverage
+
+# Pyre type checker
+.pyre/
+
+# Cython debug symbols
+cython_debug/
