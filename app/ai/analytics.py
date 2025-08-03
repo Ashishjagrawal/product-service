@@ -4,11 +4,6 @@ import nltk
 from nltk.corpus import stopwords
 from nltk import word_tokenize, pos_tag
 import re
-
-# Download once before using
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('punkt')
-# nltk.download('stopwords')
 import spacy
 
 # Load once (module-level)
