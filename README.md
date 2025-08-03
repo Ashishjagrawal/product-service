@@ -1,4 +1,3 @@
-```markdown
 # Product Microservice
 
 A scalable Python microservice that asynchronously crawls product data from an e‑commerce domain, persists it reliably, and exposes AI-driven insights via a FastAPI JSON REST API. The service includes embedding-based similarity recommendations, AI-generated marketing summaries, and rich analytics.
@@ -233,12 +232,3 @@ See `/docs` folder for:
 - **Architecture Diagrams:** Visual representation of the components and data flow.
 - **Deployment Diagrams:** Container architecture and CI/CD process.
 - **Data Flow Diagrams:** Step-by-step data processing from crawl to AI insights serving.
-
----
-
-Feel free to open issues or pull requests for improvements or help.  
-Thank you for reviewing this service!
-
----
-```
-If you want, I can help you draft the `/docs` diagrams or prepare the architecture brief next.
