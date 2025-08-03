@@ -48,4 +48,4 @@ jobs:
       - name: Push Docker image
         run: |
           docker tag product_service:latest jagrawalashish/product_service:latest
-          docker jagrawalashish/product_service:latest
+          docker push jagrawalashish/product_service:latest
