@@ -230,5 +230,4 @@ Clear modular structure enables separation of crawling, storage, AI insight extr
 See `/docs` folder for:
 
 - **Architecture Diagrams:** Visual representation of the components and data flow.
-- **Deployment Diagrams:** Container architecture and CI/CD process.
 - **Data Flow Diagrams:** Step-by-step data processing from crawl to AI insights serving.
